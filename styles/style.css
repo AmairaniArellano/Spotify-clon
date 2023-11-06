@@ -69,3 +69,61 @@ nav ul li {
     font-size: 160%;
     overflow: hidden;
     }
+    
+    /* pagina 2 Amairani*/
+.page2 h2{
+    display: flex;
+    justify-content: center;
+    text-decoration-line: underline;
+    text-decoration-color: #00B172;
+}
+
+.wrapper{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+[class^='icon-'] {
+    inline-size: 50px;
+    block-size: 50px;
+    background-size: cover;
+    display: inline-block;
+}
+.wrapper h4{
+    color: #00B172;
+}
+ /* página 3 Tali */
+   .pagina3  {
+    display: flex;
+   background-color: #00B172;
+   margin-inline: 1%;
+   margin: 2%;
+   align-items: center;
+   align-content: center;
+   flex-direction: row;
+   justify-content: center}
+
+   .cuadro-texto   {
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+    justify-content: left;
+    color: white;
+    padding: 3%;
+    font-size:large; }
+  .cuadro-texto h2  {
+    text-decoration: underline; }
+    
+   img {
+      width: 40%;
+      padding: 20%;
+    }
+    
+    .app-mockup   {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+}
+    .app-mockup img   {
+      width: 60%;
+    }
